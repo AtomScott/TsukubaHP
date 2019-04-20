@@ -3,6 +3,8 @@ Date: 2018-04-01
 Modified: 2010-12-05 19:30
 Category: projects
 Tags: 
+img: https://github.com/AtomScott/tsukubaHP/blob/master/img.jpg?raw=true
+link: https://github.com/AtomScott/tsukubaHP
 Slug: TsukubaHP
 Authors: Atom Scott @ Football team, University of Tsukuba
 Summary: 
